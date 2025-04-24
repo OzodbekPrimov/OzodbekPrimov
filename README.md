@@ -28,7 +28,7 @@ I recently completed a professional backend development course and started build
 - Stripe integration for international payment support  
 - Telegram Bot notifications for real-time order alerts  
 - Celery + Redis + RabbitMQ for background task queueing  
-🔗 [GitHub Repository](https://github.com/OzodbekPrimov/ecommerce2)
+🔗 [GitHub Repository](https://github.com/OzodbekPrimov/e_commerce_2)
 
 ---
 
