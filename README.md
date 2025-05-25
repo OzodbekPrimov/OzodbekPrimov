@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ozodbek Primov – Junior Backend Developer!
+# 👋 Hello, I'm Ozodbek Primov – Backend Developer!
 
 ## 🧑‍💻 About Me
 
@@ -9,7 +9,7 @@ I recently completed a professional backend development course and started build
 
 ## 🔧 Tech Stack & Tools
 
-- 💻 **Languages & Frameworks:** Python, Django, Django REST Framework, Flask  
+- 💻 **Languages & Frameworks:** Python, Django, Django REST Framework  
 - 🧰 **Databases:** PostgreSQL, SQLite  
 - 📦 **Async Tasks:** Celery, Redis, RabbitMQ  
 - 🔐 **Authentication:** JWT, Djoser  
